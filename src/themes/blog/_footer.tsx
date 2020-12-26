@@ -8,6 +8,9 @@ const Footer: PagicLayout = () => (
     <a href="https://github.com/xcatliu/pagic" target="_blank">
       Pagic
     </a>
+    < a href="https://beian.miit.gov.cn/" target="_blank">
+      浙ICP备18014024号
+      </ a>
   </footer>
 );
 
